@@ -33,5 +33,5 @@ main.py - main machine learning module
 </ul>
 
 # Authors
-## Utkarsh Brajnil
+## Malay Rai
 
